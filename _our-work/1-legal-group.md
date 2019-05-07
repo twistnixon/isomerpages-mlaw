@@ -1,15 +1,16 @@
 ---
-layout: leftnav-page-content
-title: Legal Group
-permalink: /our-work/legal-group/
-breadcrumb: Legal Group
-collection_name: our-work
+layout: simple-page
+permalink: /stack-2018/
+breadcrumb: STACK 2018
+title: STACK 2018
 ---
 
-> MinLaw ensures a sound and progressive legal framework that is relevant and modern, provides access to justice, and upholds the rule of law.
+> Add some Description about STACK 2018?
  
-The Legal Group, comprising the Legal Policy Division, International Legal Division and Policy Advisory Division, regularly reviews laws, proposes law reforms, and pursues new initiatives to strengthen the legal infrastructure. Such work covers a wide spectrum ranging from domestic civil law and criminal law, to public international law.  
+Curabitur quis convallis ante. Praesent egestas varius libero porttitor egestas. Integer scelerisque vehicula metus eget aliquet. Aliquam erat volutpat. Integer convallis, lacus et accumsan congue, ex est finibus velit, vitae rutrum dolor magna porttitor ex. In gravida, metus nec congue sollicitudin, eros elit varius leo, nec tempor ante felis tempus magna. Sed finibus vestibulum porta. Ut cursus venenatis augue vel convallis. Proin finibus egestas justo. Phasellus a iaculis leo.
 
-<script type="text/javascript" src="https://www.evvochannel.tv/jwplayer7/jwplayer.js"></script>
-<div id="A0457D1D643971395BCB0D1EFF343028">Loading the player ...</div>
-<script type="text/javascript">jwplayer.key="yZQCaeGpajGSFqDgOGIs2hEY5ugIiTnmdzTJ57lVyao=";jwplayer("A0457D1D643971395BCB0D1EFF343028").setup({width: "100%",aspectratio: "16:9",playlist: [{ image: "http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/default_LegalPolicyandIndustryDevelopment_admin_640x360_700k.jpg",sources: [ {file: "https://evvomedia.pc-s.cdn.bitgravity.com/cdn/_definst_/evvomedia/minlaw/admin/default_LegalPolicyandIndustryDevelopment_admin_640x360_700k.mp4/playlist.m3u8", }], }], });</script>
+Nam pulvinar condimentum augue non accumsan. Integer tincidunt vitae purus porta scelerisque. Vestibulum iaculis, libero vitae mollis semper, magna elit laoreet lacus, sed commodo lacus nisi eu enim. Duis molestie ornare lorem, eget viverra ligula. Sed lacinia ipsum lorem, eget dignissim eros consequat vitae. In lacinia tempus libero et cursus. Suspendisse suscipit euismod justo, ac laoreet magna suscipit non. Etiam eget dui posuere, congue lorem sed, venenatis ante. In mattis sodales dui in sollicitudin. Ut ut metus vel turpis facilisis aliquam. Donec ligula ipsum, facilisis ut nisi a, fermentum efficitur arcu. Duis posuere neque in quam condimentum, eu commodo libero viverra. Sed nec augue eget diam commodo blandit. Suspendisse potenti.
+
+
+
+
